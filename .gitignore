@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Perso
+.DS_Store
+*~
+GRD
+_*.ipynb
