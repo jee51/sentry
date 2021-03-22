@@ -175,7 +175,7 @@ def extractdata(zone, zipfile):
             tiffilename = zf.extract(tiffile,tgtdir)
 
         # Taille de l'image complète.
-        widtah = desc['width']
+        width = desc['width']
         heigth = desc['heigth']
         
         # Récupération de la bande.
@@ -300,7 +300,9 @@ class GrdZone:
         
         
         img = rviband(vh,vv)
-        rvi = img.mean()
-        std = img.std()
+        belong = self.mask['belong']
+        values = img[belong]
+        rvi = values.mean()
+        std = values.std()
         
         return rvi,std
