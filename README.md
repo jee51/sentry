@@ -29,5 +29,3 @@ Le chargement s’effectuera automatiquement.
 
 Les notebooks explicatifs sont dans le dossier « notebooks ».
 Le fichier « TraceRVI.ipynb » présente des calculs ayant abouti aux graphes présentés dans ce document. Des données CSV sont disponibles dans le répertoire « data/Barro-Alto », ce qui évite d’avoir à relancer les traitements depuis les données brutes. Si vous avez téléchargé des données personnelles il faut juste supprimer le commentaire des lignes « compute… »
-
-![image](https://user-images.githubusercontent.com/18629966/112039345-3e0cdf00-8b44-11eb-957e-db8b08fece8a.png)
