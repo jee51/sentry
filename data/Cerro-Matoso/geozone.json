@@ -1,0 +1,8 @@
+{
+    "name": "Cerro Matoso - Nickel (Colombie)", 
+    "bbox": [7.867957957957958, -75.59204204204202, 7.952042042042042,  -75.50795795795797],
+    "step": 10,
+    "GRD": "/Volumes/JLTD/Sentinel/GRD",
+    "FCOVER": "/Volumes/JLTD/Sentinel/FCOVER",
+    "NDVI": "/Volumes/JLTD/Sentinel/NDVI"
+}
