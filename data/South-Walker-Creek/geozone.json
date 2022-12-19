@@ -1,0 +1,8 @@
+{
+    "name": "South Walker Creek - Coal (Australie)", 
+    "bbox": [-21.88, 148.36, -21.69, 148.51],
+    "step": 10,
+    "GRD": "/Volumes/JLTD/Sentinel/GRD",
+    "FCOVER": "/Volumes/JLTD/Sentinel/FCOVER",
+    "NDVI": "/Volumes/JLTD/Sentinel/NDVI"
+}

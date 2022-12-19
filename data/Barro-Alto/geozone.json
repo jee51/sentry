@@ -1,8 +1,8 @@
 {
-    "name": "Barro Alto Nickel Mine (Brasil)", 
+    "name": "Barro Alto - Nickel (Brasil)", 
     "bbox": [-15.12, -49.06, -15.02, -48.92],
     "step": 10,
-    "GRD": "/Volumes/JLTD/Sentinel/GRD/Barro-Alto",
+    "GRD": "/Volumes/JLTD/Sentinel/GRD",
     "FCOVER": "/Volumes/JLTD/Sentinel/FCOVER",
     "NDVI": "/Volumes/JLTD/Sentinel/NDVI"
 }

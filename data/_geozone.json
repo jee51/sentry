@@ -1,0 +1,8 @@
+{
+    "name": "Unknown",
+    "bbox": [0.0, 0.0, 0.0, 0.0],
+    "step": 10,
+    "GRD": "/Volumes/JLTD/Sentinel/GRD",
+    "FCOVER": "/Volumes/JLTD/Sentinel/FCOVER",
+    "NDVI": "/Volumes/JLTD/Sentinel/NDVI"
+}

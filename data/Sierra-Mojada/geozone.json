@@ -1,0 +1,8 @@
+{
+    "name": "Sierra Mojada - Cerussite (Mexico)", 
+    "bbox": [27.255,-103.675, 27.275, -103.655],
+    "step": 10,
+    "GRD": "/Volumes/JLTD/Sentinel/GRD",
+    "FCOVER": "/Volumes/JLTD/Sentinel/FCOVER",
+    "NDVI": "/Volumes/JLTD/Sentinel/NDVI"
+}
