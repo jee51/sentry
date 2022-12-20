@@ -1,0 +1,8 @@
+{
+    "name": "Villaroche (Ile de France)", 
+    "bbox": [48.616, 2.635, 48.586, 2.707],
+    "step": 10,
+    "GRD": "/Volumes/JLTD/Sentinel/GRD",
+    "FCOVER": "/Volumes/JLTD/Sentinel/FCOVER",
+    "NDVI": "/Volumes/JLTD/Sentinel/NDVI"
+}

@@ -319,7 +319,12 @@ def glscompute(zone,ind):
     E = None
     name = os.path.basename(zone['target'])
     for i in tqdm(range(len(ocli)),desc=name):
-        Fi,Ei = ocli[i].data
+        try:
+            Fi,Ei = ocli[i].data
+        except:
+            # Normalement cette erreur arrive en fin de liste.
+            Ei = E
+            Fi = F
         
         if E is None:
             E = Ei
